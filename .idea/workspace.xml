@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="Add Module2_2.py">
+    <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="Add Module2_3.py">
       <change afterPath="$PROJECT_DIR$/Module2/Module 2_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -44,11 +44,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Module 2_3.executor": "Debug",
+    "Python.Module 2_3.executor": "Run",
     "Python.Module1.executor": "Debug",
     "Python.Module2_1.executor": "Debug",
     "Python.Module2_2.executor": "Run",
     "Python.module_1_3.executor": "Debug",
+    "Python.module_1_6.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -136,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733987151114</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add Module2_3.py">
+      <option name="closed" value="true" />
+      <created>1734157888888</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734157888888</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,7 +168,8 @@
     <MESSAGE value="add Module2_1.py" />
     <MESSAGE value="test DeBUG" />
     <MESSAGE value="Add Module2_2.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Module2_2.py" />
+    <MESSAGE value="Add Module2_3.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Module2_3.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
