@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="test DeBUG">
-      <change afterPath="$PROJECT_DIR$/Module2/Module2_2.py" afterDir="false" />
+    <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="Add Module2_2.py">
+      <change afterPath="$PROJECT_DIR$/Module2/Module 2_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Module 2_3.executor": "Debug",
     "Python.Module1.executor": "Debug",
     "Python.Module2_1.executor": "Debug",
     "Python.Module2_2.executor": "Run",
@@ -127,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733899152502</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add Module2_2.py">
+      <option name="closed" value="true" />
+      <created>1733987151114</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733987151114</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,7 +158,8 @@
     <MESSAGE value="print bas" />
     <MESSAGE value="add Module2_1.py" />
     <MESSAGE value="test DeBUG" />
-    <option name="LAST_COMMIT_MESSAGE" value="test DeBUG" />
+    <MESSAGE value="Add Module2_2.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Module2_2.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -161,6 +171,10 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Module1/Module1.py</url>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Module2/Module 2_3.py</url>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
