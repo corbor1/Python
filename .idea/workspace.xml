@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="add Module 2_4.py" />
+    <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="Modified Module 2_4.py">
+      <change beforePath="$PROJECT_DIR$/Module2/Module2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/Module2_4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +47,7 @@
     "Python.Module1.executor": "Debug",
     "Python.Module2_1.executor": "Debug",
     "Python.Module2_2.executor": "Run",
-    "Python.Module2_4.executor": "Debug",
+    "Python.Module2_4.executor": "Run",
     "Python.module_1_3.executor": "Debug",
     "Python.module_1_6.executor": "Run",
     "Python.test.executor": "Run",
@@ -168,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734244565041</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Modified Module 2_4.py">
+      <option name="closed" value="true" />
+      <created>1734247977191</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1734247977191</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +205,8 @@
     <MESSAGE value="modify Module 2_3.py" />
     <MESSAGE value="last modify Module 2_3.py" />
     <MESSAGE value="add Module 2_4.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Module 2_4.py" />
+    <MESSAGE value="Modified Module 2_4.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified Module 2_4.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,6 +4,8 @@ primes = []
 not_primes = []
 
 for num in numbers:
+    if num ==1:
+        not_primes.append(num)
     if num > 1:
         for i in range(2, num):
             if (num % i) == 0:
@@ -11,8 +13,6 @@ for num in numbers:
                 break
         else:
             primes.append(num)
-    else:
-        primes.append(num)
 
 print("Простые числа:")
 print(primes)
