@@ -11,6 +11,8 @@ for num in numbers:
                 break
         else:
             primes.append(num)
+    else:
+        primes.append(num)
 
 print("Простые числа:")
 print(primes)

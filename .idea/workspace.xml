@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="last modify Module 2_3.py">
-      <change afterPath="$PROJECT_DIR$/Module2/Module2_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="add Module 2_4.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734158748026</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add Module 2_4.py">
+      <option name="closed" value="true" />
+      <created>1734244565041</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734244565041</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,7 +194,8 @@
     <MESSAGE value="Add Module2_3.py" />
     <MESSAGE value="modify Module 2_3.py" />
     <MESSAGE value="last modify Module 2_3.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="last modify Module 2_3.py" />
+    <MESSAGE value="add Module 2_4.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Module 2_4.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -208,7 +214,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Module2/Module2_4.py</url>
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
