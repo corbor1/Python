@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="Modified Module 2_4.py">
+    <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="2 Modified Module 2_4.py">
+      <change afterPath="$PROJECT_DIR$/Module2/Module2_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module2/Module2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/Module2_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +51,7 @@
     "Python.Module2_1.executor": "Debug",
     "Python.Module2_2.executor": "Run",
     "Python.Module2_4.executor": "Run",
+    "Python.Module2_5.executor": "Run",
     "Python.module_1_3.executor": "Debug",
     "Python.module_1_6.executor": "Run",
     "Python.test.executor": "Run",
@@ -55,7 +59,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Андрей/Desktop/Python"
+    "last_opened_file_path": "C:/Users/Андрей/Desktop/Python",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -178,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734247977191</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2 Modified Module 2_4.py">
+      <option name="closed" value="true" />
+      <created>1734248245628</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1734248245628</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +219,8 @@
     <MESSAGE value="last modify Module 2_3.py" />
     <MESSAGE value="add Module 2_4.py" />
     <MESSAGE value="Modified Module 2_4.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified Module 2_4.py" />
+    <MESSAGE value="2 Modified Module 2_4.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 Modified Module 2_4.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
