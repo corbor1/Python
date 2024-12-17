@@ -6,7 +6,10 @@ def get_password(number):
             if j <= i:
                 continue
             if number % (i + j) == 0:
+                password += "("
                 password += str(i) + str(j)
+                password += ")"
+                password += " "
     return password
 
 
