@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="add Module 4_2">
+      <change afterPath="$PROJECT_DIR$/Module5/class Module 5_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +32,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/corbor1/Python.git&quot;,
-    &quot;accountId&quot;: &quot;c087b994-6f63-4813-a9c6-5294e49e929e&quot;
+    &quot;accountId&quot;: &quot;134a7c59-3491-4396-9423-1d0a48dabd4e&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -41,31 +45,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Module 2_3.executor": "Run",
-    "Python.Module 3_2.executor": "Run",
-    "Python.Module 4_2.executor": "Run",
-    "Python.Module1.executor": "Debug",
-    "Python.Module2.executor": "Run",
-    "Python.Module2_1.executor": "Debug",
-    "Python.Module2_2.executor": "Run",
-    "Python.Module2_4.executor": "Run",
-    "Python.Module2_5.executor": "Run",
-    "Python.Module3_1.executor": "Debug",
-    "Python.Module3_2.executor": "Run",
-    "Python.Module3_4.executor": "Debug",
-    "Python.module_1_3.executor": "Debug",
-    "Python.module_1_6.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.Строки и индексация строк.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/corbo/OneDrive/Рабочий стол/Python",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Module 2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module 3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module 4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Module2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module2_1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Module2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module3_1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Module3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module3_4.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.class Module 5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_3.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module_1_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Строки и индексация строк.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/corbo/OneDrive/Рабочий стол/Python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Андрей\Desktop\Python" />
@@ -74,7 +79,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
