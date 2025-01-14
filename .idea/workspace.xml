@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="add Module 4_2">
-      <change afterPath="$PROJECT_DIR$/Module5/class Module 5_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="84b6c8d0-0cfa-4c28-b4cb-2490a024f4c1" name="Changes" comment="add Module 5_2">
+      <change beforePath="$PROJECT_DIR$/Module5/class Module 5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module5/class Module 5_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736342963726</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add Module 5_2">
+      <option name="closed" value="true" />
+      <created>1736789557379</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1736789557379</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,7 +325,8 @@
     <MESSAGE value=" Module3_2 + finish.py" />
     <MESSAGE value="Module3_2 modifid!" />
     <MESSAGE value="add Module 4_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Module 4_2" />
+    <MESSAGE value="add Module 5_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Module 5_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

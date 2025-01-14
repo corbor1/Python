@@ -21,6 +21,7 @@ h2 = House('ЖК Акация', 20)
 
 # str
 
+
 print(h1)
 print(h2)
 
